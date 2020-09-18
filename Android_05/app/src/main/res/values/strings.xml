@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyMiniProject</string>
+    <string name="First_Tab">ListView</string>
+    <string name="Second_Tab">MarkerView</string>
+    <string name="Thrid_Tab">LikeView</string>
+    <string name="title_activity_add_content">Map</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="kakao_app_key">20eb9470d8c04f52d6c8ea84485e78ff</string>
+    <string name="kakao_scheme">kakao20eb9470d8c04f52d6c8ea84485e78ff</string>
+    <string name="kakaolink_host">kakaolink</string>
+
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/Menu_First_Tab"
+        android:icon="@drawable/ic_baseline_view_list_24px"
+        android:title="@string/First_Tab" />
+
+    <item
+        android:id="@+id/Menu_Second_Tab"
+        android:icon="@drawable/ic_baseline_location_on_24px"
+        android:title="@string/Second_Tab" />
+
+    <item
+        android:id="@+id/Menu_Third_Tab"
+        android:icon="@drawable/ic_baseline_thumb_up_alt_24px"
+        android:title="@string/Thrid_Tab" />
+
+</menu>

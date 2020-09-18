@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyMap</string>
+    <string name="title_activity_maps">MyMap</string>
+    <string name="kakao_app_key">bd8910cee2efef0d7cf6dfdb5746d4da</string>
+    <string name="kakao_scheme">kakaobd8910cee2efef0d7cf6dfdb5746d4da</string>
+    <string name="kakaolink_host">kakaolink</string>
+</resources>
