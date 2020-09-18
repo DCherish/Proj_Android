@@ -10,17 +10,17 @@
 - [x] Vuforia Android SDK  
 ### 프로젝트 소개 (간략)
 > Project_1 ~ Project_5 // Android (학기 중반부)  
-> > Project_1 // Activity, Intent
-> > Project_2 // Manifest, UI (Layout, Widget), Fragment
-> > Project_3 // Permission, Sensor
-> > Project_4 // Map, Open API
-> > Project_5 // Android_Project
+> > Project_1 // Activity, Intent  
+> > Project_2 // Manifest, UI (Layout, Widget), Fragment  
+> > Project_3 // Permission, Sensor  
+> > Project_4 // Map, Open API  
+> > Project_5 // Android_Project  
 
 > Project_6 ~ Project_12 // Android + AR (학기 후반부)  
-> > Project_6 // Camera Calibration, Object File Parser
-> > Project_7 // Modeling Transformation
-> > Project_8 // Augmenting 3D Object
-> > Project_9 // Local Illumination Model
-> > Project_10 // Local Feature Detecting and Matching (SIFT, SURF, ORB)
-> > Project_11 // Image Stitching (Forward/Backward Warping)
+> > Project_6 // Camera Calibration, Object File Parser  
+> > Project_7 // Modeling Transformation  
+> > Project_8 // Augmenting 3D Object  
+> > Project_9 // Local Illumination Model  
+> > Project_10 // Local Feature Detecting and Matching (SIFT, SURF, ORB)  
+> > Project_11 // Image Stitching (Forward/Backward Warping)  
 > > Project_12 // Android+AR_Project
