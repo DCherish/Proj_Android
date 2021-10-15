@@ -1,7 +1,9 @@
+---
+
 <div align="center">
-  
-  *Android Project*
-  
+
+ 💜 *Android Project*
+
 </div>
 
 ---
@@ -22,27 +24,27 @@
 > Project_6 ~ Project_12 // Android + AR (학기 후반부)  
 
 
-- [Project_1](https://github.com/DCherish/Proj_Android/tree/master/Android_01) (Only File)  
+- [Project_1](https://github.com/DCherish/Proj_Android/tree/master/Android_01) `Only File`  
   - Activity, Intent  
-- [Project_2](https://github.com/DCherish/Proj_Android/tree/master/Android_02) (Only File)  
+- [Project_2](https://github.com/DCherish/Proj_Android/tree/master/Android_02) `Only File`  
   - Manifest, UI (Layout, Widget), Fragment  
-- [Project_3](https://github.com/DCherish/Proj_Android/tree/master/Android_03) (Only File)  
+- [Project_3](https://github.com/DCherish/Proj_Android/tree/master/Android_03) `Only File`  
   - Permission, Sensor  
-- [Project_4](https://github.com/DCherish/Proj_Android/tree/master/Android_04) (Only File)  
+- [Project_4](https://github.com/DCherish/Proj_Android/tree/master/Android_04) `Only File`  
   - Map, Open API  
-- [Project_5](https://github.com/DCherish/Proj_Android/tree/master/Android_05) (README.md)  
+- [Project_5](https://github.com/DCherish/Proj_Android/tree/master/Android_05) `README.md` `File`  
   - Android_Project  
-- [Project_6](https://github.com/DCherish/Proj_Android/tree/master/Android_06) (Only File)  
+- [Project_6](https://github.com/DCherish/Proj_Android/tree/master/Android_06) `Only File`  
   - Camera Calibration, Object File Parser  
-- [Project_7](https://github.com/DCherish/Proj_Android/tree/master/Android_07) (Only File)  
+- [Project_7](https://github.com/DCherish/Proj_Android/tree/master/Android_07) `Only File`  
   - Modeling Transformation  
-- [Project_8](https://github.com/DCherish/Proj_Android/tree/master/Android_08) (Only File)  
+- [Project_8](https://github.com/DCherish/Proj_Android/tree/master/Android_08) `Only File`  
   - Augmenting 3D Object  
-- [Project_9](https://github.com/DCherish/Proj_Android/tree/master/Android_09) (Only File)  
+- [Project_9](https://github.com/DCherish/Proj_Android/tree/master/Android_09) `Only File`  
   - Local Illumination Model  
-- [Project_10](https://github.com/DCherish/Proj_Android/tree/master/Android_10) (Only File)  
+- [Project_10](https://github.com/DCherish/Proj_Android/tree/master/Android_10) `Only File`  
   - Local Feature Detecting and Matching (SIFT, SURF, ORB)  
-- [Project_11](https://github.com/DCherish/Proj_Android/tree/master/Android_11) (Only File)  
+- [Project_11](https://github.com/DCherish/Proj_Android/tree/master/Android_11) `Only File`  
   - Image Stitching (Forward/Backward Warping)  
-- [Project_12](https://github.com/DCherish/Proj_Android/tree/master/Android_12) **(README.md)**  
+- [Project_12](https://github.com/DCherish/Proj_Android/tree/master/Android_12) `README.md` `Code` `Video`  
   - Android+AR_Project
