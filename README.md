@@ -47,4 +47,12 @@
 - [Project_11](https://github.com/DCherish/Proj_Android/tree/master/Android_11) `Only File`  
   - Image Stitching (Forward/Backward Warping)  
 - [Project_12](https://github.com/DCherish/Proj_Android/tree/master/Android_12) `README.md` `Code` `Video`  
-  - Android+AR_Project
+  - Android+AR_Project  
+
+---
+
+# ⚠️ License
+The theme is available as open source under the terms of the [MIT License](https://github.com/DCherish/Proj_Android/blob/master/LICENSE).  
+###### *When you use this project, It would appreciate it if you could press the Star button*(⭐).
+
+---
