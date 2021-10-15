@@ -1,3 +1,11 @@
+<div align="center">
+  
+  *Android Project*
+  
+</div>
+
+---
+
 # 🧐 프로젝트 목표
 > **안드로이드 환경에서의 모바일 증강현실 소프트웨어 설계 및 구현 능력 배양**  
 
@@ -37,14 +45,4 @@
 - [Project_11](https://github.com/DCherish/Proj_Android/tree/master/Android_11) (Only File)  
   - Image Stitching (Forward/Backward Warping)  
 - [Project_12](https://github.com/DCherish/Proj_Android/tree/master/Android_12) **(README.md)**  
-  - Android+AR_Project  
-
-<br/>
-
----
-
-<div align="right">
-  
-  *Android Project*
-  
-</div>
+  - Android+AR_Project
