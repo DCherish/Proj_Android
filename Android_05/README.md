@@ -202,4 +202,4 @@ public void onMapReady(GoogleMap googleMap)
 > MarkerFragment.java 일부분  
 
 # 💛 프로젝트 결과 (간략)
-<img src="./image01.png" width="450px" height="300px" alt="BlockDiagram"></img>
+<img src="./image01.png" width="900px" height="900px" alt="BlockDiagram"></img>
