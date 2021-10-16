@@ -46,7 +46,7 @@
   - Local Feature Detecting and Matching (SIFT, SURF, ORB)  
 - [Project_11](https://github.com/DCherish/Proj_Android/tree/master/Android_11) `Only File`  
   - Image Stitching (Forward/Backward Warping)  
-- [Project_12](https://github.com/DCherish/Proj_Android/tree/master/Android_12) `README.md` `Code` `Video`  
+- [Project_12](https://github.com/DCherish/Proj_Android/tree/master/Android_12) `README.md` `Report File(Code)` `Video`  
   - Android+AR_Project  
 
 ---
