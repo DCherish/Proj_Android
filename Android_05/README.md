@@ -213,5 +213,5 @@ public void onMapReady(GoogleMap googleMap)
 
 <br/>
 
-<img src="./image02.png" width="680px" height="300px" alt="BlockDiagram"></img>
+<img src="./image02.png" width="800px" height="380px" alt="BlockDiagram"></img>
 > Permission, InsertView, Delete, AlertDialog, List with Switch (Tab 3)
