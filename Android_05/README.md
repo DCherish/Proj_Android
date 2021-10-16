@@ -15,6 +15,11 @@
 - Make use of the stored data and Configure the Tab 3  
 - etc) AlertDialog, Permission, Switch Widget, Toast  
 
+# 👨‍💻 사용 기술 Stack
+- [x] Android Studio  
+- [x] Java  
+- [x] KaKaoLink Open API  
+
 # ⌨️ Code (일부분)
 ```java  
 public class MainActivity extends AppCompatActivity
