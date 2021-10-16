@@ -13,6 +13,7 @@
     - Share Address using **KaKaoLink Open API**  
     - Delete; Delete Data from Database  
 - Make use of the stored data and Configure the Tab 3  
+- etc) AlertDialog, Permission, Switch Widget, Toast  
 
 # ⌨️ Code (일부분)
 ```java  
@@ -201,5 +202,11 @@ public void onMapReady(GoogleMap googleMap)
 ```  
 > MarkerFragment.java 일부분  
 
-# 💛 프로젝트 결과 (간략)
+# 💛 프로젝트 결과 사진
 <img src="./image01.png" width="600px" height="600px" alt="BlockDiagram"></img>
+> GoogleMap (Tab 2), List (Tab 1), Share (KaKaoTalk), DetailView, KaKaoMap
+
+<br/>
+
+<img src="./image02.png" width="600px" height="400px" alt="BlockDiagram"></img>
+> Permission, InsertView, Delete, AlertDialog, List with Switch (Tab 3)
